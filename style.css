@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+#abot{
+     width: 100%;
+    height: 800px;
+    background-color: burlywood;
+    
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+#fav{
+    width: 100%;
+    height: 800px;
+    background-color: beige;
+}
+
+img{
+    transition: transform .2s;
+    width: 450px;
+    height: 450px;
+}
+img :hover{
+    transform: scale(0.9)
+        
+}
